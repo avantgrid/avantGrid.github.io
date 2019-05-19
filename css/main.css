@@ -2,6 +2,10 @@ html {
     background-color: black;
 }
 
+div {
+    font-family: 'Crete Round', serif;
+}
+
 .main {
     background: black;
 }
